@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sitioprueba';
+  titulo: any = 'Mi titulo de prueba';
 }
